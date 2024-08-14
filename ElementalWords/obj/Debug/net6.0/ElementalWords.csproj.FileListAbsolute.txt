@@ -1,0 +1,50 @@
+C:\Users\Jackal\Source\Repos\Elemental Words\Elemental Words\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Jackal\Source\Repos\Elemental Words\Elemental Words\bin\Debug\net6.0\appsettings.json
+C:\Users\Jackal\Source\Repos\Elemental Words\Elemental Words\bin\Debug\net6.0\ElementalWords.exe
+C:\Users\Jackal\Source\Repos\Elemental Words\Elemental Words\bin\Debug\net6.0\ElementalWords.deps.json
+C:\Users\Jackal\Source\Repos\Elemental Words\Elemental Words\bin\Debug\net6.0\ElementalWords.runtimeconfig.json
+C:\Users\Jackal\Source\Repos\Elemental Words\Elemental Words\bin\Debug\net6.0\ElementalWords.dll
+C:\Users\Jackal\Source\Repos\Elemental Words\Elemental Words\bin\Debug\net6.0\ElementalWords.pdb
+C:\Users\Jackal\Source\Repos\Elemental Words\Elemental Words\obj\Debug\net6.0\ElementalWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jackal\Source\Repos\Elemental Words\Elemental Words\obj\Debug\net6.0\ElementalWords.AssemblyInfoInputs.cache
+C:\Users\Jackal\Source\Repos\Elemental Words\Elemental Words\obj\Debug\net6.0\ElementalWords.AssemblyInfo.cs
+C:\Users\Jackal\Source\Repos\Elemental Words\Elemental Words\obj\Debug\net6.0\ElementalWords.csproj.CoreCompileInputs.cache
+C:\Users\Jackal\Source\Repos\Elemental Words\Elemental Words\obj\Debug\net6.0\ElementalWords.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jackal\Source\Repos\Elemental Words\Elemental Words\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Jackal\Source\Repos\Elemental Words\Elemental Words\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Jackal\Source\Repos\Elemental Words\Elemental Words\obj\Debug\net6.0\staticwebassets\msbuild.ElementalWords.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jackal\Source\Repos\Elemental Words\Elemental Words\obj\Debug\net6.0\staticwebassets\msbuild.build.ElementalWords.props
+C:\Users\Jackal\Source\Repos\Elemental Words\Elemental Words\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ElementalWords.props
+C:\Users\Jackal\Source\Repos\Elemental Words\Elemental Words\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ElementalWords.props
+C:\Users\Jackal\Source\Repos\Elemental Words\Elemental Words\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Jackal\Source\Repos\Elemental Words\Elemental Words\obj\Debug\net6.0\scopedcss\bundle\ElementalWords.styles.css
+C:\Users\Jackal\Source\Repos\Elemental Words\Elemental Words\obj\Debug\net6.0\ElementalWords.dll
+C:\Users\Jackal\Source\Repos\Elemental Words\Elemental Words\obj\Debug\net6.0\refint\ElementalWords.dll
+C:\Users\Jackal\Source\Repos\Elemental Words\Elemental Words\obj\Debug\net6.0\ElementalWords.pdb
+C:\Users\Jackal\Source\Repos\Elemental Words\Elemental Words\obj\Debug\net6.0\ElementalWords.genruntimeconfig.cache
+C:\Users\Jackal\Source\Repos\Elemental Words\Elemental Words\obj\Debug\net6.0\ref\ElementalWords.dll
+C:\Users\Jackal\Source\Repos\ElementalWords\ElementalWords\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Jackal\Source\Repos\ElementalWords\ElementalWords\bin\Debug\net6.0\appsettings.json
+C:\Users\Jackal\Source\Repos\ElementalWords\ElementalWords\bin\Debug\net6.0\ElementalWords.exe
+C:\Users\Jackal\Source\Repos\ElementalWords\ElementalWords\bin\Debug\net6.0\ElementalWords.deps.json
+C:\Users\Jackal\Source\Repos\ElementalWords\ElementalWords\bin\Debug\net6.0\ElementalWords.runtimeconfig.json
+C:\Users\Jackal\Source\Repos\ElementalWords\ElementalWords\bin\Debug\net6.0\ElementalWords.dll
+C:\Users\Jackal\Source\Repos\ElementalWords\ElementalWords\bin\Debug\net6.0\ElementalWords.pdb
+C:\Users\Jackal\Source\Repos\ElementalWords\ElementalWords\obj\Debug\net6.0\ElementalWords.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jackal\Source\Repos\ElementalWords\ElementalWords\obj\Debug\net6.0\ElementalWords.AssemblyInfoInputs.cache
+C:\Users\Jackal\Source\Repos\ElementalWords\ElementalWords\obj\Debug\net6.0\ElementalWords.AssemblyInfo.cs
+C:\Users\Jackal\Source\Repos\ElementalWords\ElementalWords\obj\Debug\net6.0\ElementalWords.csproj.CoreCompileInputs.cache
+C:\Users\Jackal\Source\Repos\ElementalWords\ElementalWords\obj\Debug\net6.0\ElementalWords.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Jackal\Source\Repos\ElementalWords\ElementalWords\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Jackal\Source\Repos\ElementalWords\ElementalWords\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Jackal\Source\Repos\ElementalWords\ElementalWords\obj\Debug\net6.0\staticwebassets\msbuild.ElementalWords.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Jackal\Source\Repos\ElementalWords\ElementalWords\obj\Debug\net6.0\staticwebassets\msbuild.build.ElementalWords.props
+C:\Users\Jackal\Source\Repos\ElementalWords\ElementalWords\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ElementalWords.props
+C:\Users\Jackal\Source\Repos\ElementalWords\ElementalWords\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ElementalWords.props
+C:\Users\Jackal\Source\Repos\ElementalWords\ElementalWords\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Jackal\Source\Repos\ElementalWords\ElementalWords\obj\Debug\net6.0\scopedcss\bundle\ElementalWords.styles.css
+C:\Users\Jackal\Source\Repos\ElementalWords\ElementalWords\obj\Debug\net6.0\ElementalWords.dll
+C:\Users\Jackal\Source\Repos\ElementalWords\ElementalWords\obj\Debug\net6.0\refint\ElementalWords.dll
+C:\Users\Jackal\Source\Repos\ElementalWords\ElementalWords\obj\Debug\net6.0\ElementalWords.pdb
+C:\Users\Jackal\Source\Repos\ElementalWords\ElementalWords\obj\Debug\net6.0\ElementalWords.genruntimeconfig.cache
+C:\Users\Jackal\Source\Repos\ElementalWords\ElementalWords\obj\Debug\net6.0\ref\ElementalWords.dll
